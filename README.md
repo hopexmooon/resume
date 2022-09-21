@@ -2,7 +2,7 @@
 
 Resume for 2021 - updated with latest career change but need to refresh skills section with more Data Analysis skills. 
 
-Branding statement:
+Brand statement:
 
 
 Prospective Data analyst with a background in organizational psychology and skills in Excel, Python, and SQL
